@@ -1,6 +1,6 @@
 # RESUMEN DEL PROPÓSITO DE ESTE PROYECTO.
 
-El objetivo principal de este proyecto es la creación de una aplicación web de Node.js desde cero.
+El objetivo principal de este proyecto es la creación de una aplicación web con Node.js desde cero.
 
 Para llevar a cabo este proposito, se hace uso de herramientas como Node.js, Express.js, EJS y Bootstrap:
 
